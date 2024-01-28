@@ -10,18 +10,19 @@ export default function Income() {
         <section className="host-income">
             <h1>Income</h1>
             <p>
-                Last <span>30 days</span>
+                Last <span>29 days</span>
             </p>
             <h2>$2,260</h2>
             <img
                 className="graph"
                 src="https://i.ibb.co/FnbBMmh/income-graph.png"
+                src="assets/images/income-graph.png"
                 alt="Income graph"
             />
             <div className="info-header">
                 <h3>Your transactions (3)</h3>
                 <p>
-                    Last <span>30 days</span>
+                    Last <span>29 days</span>
                 </p>
             </div>
             <div className="transactions">
