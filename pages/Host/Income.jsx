@@ -10,7 +10,7 @@ export default function Income() {
         <section className="host-income">
             <h1>Income</h1>
             <p>
-                Last <span>30 days</span>
+                Last <span>29 days</span>
             </p>
             <h2>$2,260</h2>
             <img
