@@ -1,3 +1,8 @@
 Report coming soon! 
 
-live demo site: https://sel-svans.web.app/
+Live demo site: https://sel-svans.web.app/
+
+Account to log in:
+email: selina@mail.com
+password: p123
+
