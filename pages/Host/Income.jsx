@@ -21,7 +21,7 @@ export default function Income() {
             <div className="info-header">
                 <h3>Your transactions (3)</h3>
                 <p>
-                    Last <span>30 days</span>
+                    Last <span>29 days</span>
                 </p>
             </div>
             <div className="transactions">
