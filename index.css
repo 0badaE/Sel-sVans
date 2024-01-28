@@ -112,7 +112,7 @@ footer {
     display: block;
     color: black;
     text-decoration: none;
-    margin-left: 26px;
+    /* margin-left: 26px; */
 }
 
 .back-button span:hover {
