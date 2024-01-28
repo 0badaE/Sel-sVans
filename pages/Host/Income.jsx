@@ -16,7 +16,6 @@ export default function Income() {
             <img
                 className="graph"
                 src="https://i.ibb.co/FnbBMmh/income-graph.png"
-                src="assets/images/income-graph.png"
                 alt="Income graph"
             />
             <div className="info-header">
