@@ -9,7 +9,7 @@ createServer({
 
     seeds(server) {
         
-        server.create("user", { id: "123", email: "selina@mail.com", password: "p123", name: "Bob" })
+        server.create("user", { id: "123", email: "test@mail.com", password: "p12345", name: "Bob" })
     },
 
     routes() {
